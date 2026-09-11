@@ -1,0 +1,12 @@
+# Data are never committed (schema.csv is the only tracked file in data/)
+data/*
+!data/schema.csv
+
+# Generated outputs
+output/
+report/
+
+# Python / notebook session files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
