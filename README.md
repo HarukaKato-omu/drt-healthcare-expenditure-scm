@@ -2,9 +2,7 @@
 
 Replication code for:
 
-> Impact of Demand Responsive Transportation introduction on healthcare
-> expenditures: A natural experiment in Ikuno and Hirano wards, Osaka City.
-> *Manuscript under review.*
+Daishi Tsubota, Kenta Arai, Yuya Yamada, Haruka Kato (2026) Impact of demand responsive transportation introduction on healthcare expenditures: A natural experiment in Ikuno and Hirano wards, Osaka City, Transportation Research Interdisciplinary Perspectives, Vol. 40, No. 102253. https://doi.org/10.1016/j.trip.2026.102253
 
 This repository contains the Python pipeline used to estimate the association
 between the March 2021 introduction of Demand Responsive Transportation (DRT)
